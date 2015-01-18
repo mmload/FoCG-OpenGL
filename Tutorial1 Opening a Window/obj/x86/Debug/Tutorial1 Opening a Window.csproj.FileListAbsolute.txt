@@ -1,0 +1,6 @@
+C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial1 Opening a Window\obj\x86\Debug\Tutorial1 Opening a Window.csprojResolveAssemblyReference.cache
+C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial1 Opening a Window\bin\Debug\Tutorial1 Opening a Window.exe
+C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial1 Opening a Window\bin\Debug\Tutorial1 Opening a Window.pdb
+C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial1 Opening a Window\bin\Debug\OpenGL.dll
+C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial1 Opening a Window\obj\x86\Debug\Tutorial1 Opening a Window.exe
+C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial1 Opening a Window\obj\x86\Debug\Tutorial1 Opening a Window.pdb
