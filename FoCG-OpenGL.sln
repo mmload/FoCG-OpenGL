@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial1 Opening a Window", "Tutorial1 Opening a Window\Tutorial1 Opening a Window.csproj", "{A1EB39D5-D3C6-4D09-AEE1-0FC0586B91C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial2 Randering Polygons", "Tutorial2 Randering Polygons\Tutorial2 Randering Polygons.csproj", "{31656B63-30FE-43AF-AF48-311307C30E2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{A1EB39D5-D3C6-4D09-AEE1-0FC0586B91C0}.Debug|x86.Build.0 = Debug|x86
 		{A1EB39D5-D3C6-4D09-AEE1-0FC0586B91C0}.Release|x86.ActiveCfg = Release|x86
 		{A1EB39D5-D3C6-4D09-AEE1-0FC0586B91C0}.Release|x86.Build.0 = Release|x86
+		{31656B63-30FE-43AF-AF48-311307C30E2E}.Debug|x86.ActiveCfg = Debug|x86
+		{31656B63-30FE-43AF-AF48-311307C30E2E}.Debug|x86.Build.0 = Debug|x86
+		{31656B63-30FE-43AF-AF48-311307C30E2E}.Release|x86.ActiveCfg = Release|x86
+		{31656B63-30FE-43AF-AF48-311307C30E2E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
