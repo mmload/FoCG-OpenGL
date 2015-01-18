@@ -64,7 +64,7 @@ namespace Tutorial1_Opening_a_Window
             Gl.BindBufferToShaderAttribute(square, program, "vertexPosition");
             Gl.BindBuffer(squareElements);
 
-            Gl.DrawElements(BeginMode.Quads, squareElements.Count, DrawElementsType.UnsignedInt, IntPtr.Zero);
+            Gl.DrawElements(BeginMode.TriangleFan, squareElements.Count, DrawElementsType.UnsignedInt, IntPtr.Zero);
 
             Glut.glutSwapBuffers();
         }
@@ -85,7 +85,7 @@ void main(void)
         public static string FragmentShader = @"
 void main(void)
 {
-    gl_Flagcolor = vec4(1, 1, 1, 1);
+    gl_Flagcolor = vec4(1, 0, 0, 1);
 }
 ";
 
