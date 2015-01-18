@@ -42,7 +42,6 @@ namespace Tutorial1_Opening_a_Window
 
         private static void OnRenderFrame()
         {
-            Console.WriteLine("Hello\n"); Console.WriteLine("Hello\n");
             Gl.Viewport(0, 0, width, height);
             Gl.Clear(ClearBufferMask.ColorBufferBit | ClearBufferMask.DepthBufferBit);
 
