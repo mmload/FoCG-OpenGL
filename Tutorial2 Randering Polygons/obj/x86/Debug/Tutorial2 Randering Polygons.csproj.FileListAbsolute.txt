@@ -3,3 +3,4 @@ C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-Op
 C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial2 Randering Polygons\bin\Debug\OpenGL.dll
 C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial2 Randering Polygons\obj\x86\Debug\Tutorial2 Randering Polygons.exe
 C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial2 Randering Polygons\obj\x86\Debug\Tutorial2 Randering Polygons.pdb
+C:\Users\Kathawach\Google Drive\งานสอน\2014\Second Term\FoCG\FoCG-OpenGL\Tutorial2 Randering Polygons\obj\x86\Debug\Tutorial2 Randering Polygons.csprojResolveAssemblyReference.cache

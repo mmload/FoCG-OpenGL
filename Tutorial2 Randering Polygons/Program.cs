@@ -58,7 +58,7 @@ namespace Tutorial1_Opening_a_Window
 
             Gl.DrawElements(BeginMode.Triangles, triangleElements.Count, DrawElementsType.UnsignedInt, IntPtr.Zero);
 
-            //draw my triangle
+            //draw my square
             program["model_matrix"].SetValue(Matrix4.CreateTranslation(new Vector3(1.5f, 0, 0)));
 
             Gl.BindBufferToShaderAttribute(square, program, "vertexPosition");
